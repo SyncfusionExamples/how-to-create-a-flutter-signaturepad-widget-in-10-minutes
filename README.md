@@ -1,7 +1,7 @@
 # How to Create a Flutter SignaturePad Widget in 10 Minutes
 A quick-start example to help you add the Syncfusion Flutter SignaturePad package to a Flutter app. You will learn how to add a SignaturePad widget to a Flutter project, set the background color, stroke color, stroke width, and clear the signature in the Signature Pad. You will also learn how to save and open the signature as image in mobile, web, and desktop.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/signature-pad?title=how-to-create-a-flutter-signaturepad-widget-in-10-minutes
 
 Documentation: https://help.syncfusion.com/flutter/signaturepad/overview
 
